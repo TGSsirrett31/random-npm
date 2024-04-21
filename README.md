@@ -2,7 +2,7 @@
 
 npm i number-generator-random-npm
 
-# @@How to use number-generator-random-npm?@@
+# How to use number-generator-random-npm?
 
 One of the function of this npm is:
 ```js
@@ -10,9 +10,9 @@ generarNumeroAleatorio(min, max) //This function returns a random integer betwee
 ```
 
 ## What means min and max?
-
-The parameters "min" and "max" are numbers. They represent the range in which the generated number will be placed. The generated number can be any value. Min is the minimun number and max must be the maximun number to be randomized.
-
+``` diff
++ The parameters "min" and "max" are numbers. They represent the range in which the generated number will be placed. The generated number  - can be any value. Min is the minimun number and max must be the maximun number to be randomized.
+```
 ### Example:
 
 ```js
