@@ -24,3 +24,4 @@ console.log(generatedNumber) // Return a random number between 10 and 25.
 
 ```
  
+ ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
