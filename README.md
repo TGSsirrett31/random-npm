@@ -1,7 +1,7 @@
 # How to install
-
+```console
 npm i number-generator-random-npm
-
+```
 # How to use number-generator-random-npm?
 
 One of the function of this npm is:
